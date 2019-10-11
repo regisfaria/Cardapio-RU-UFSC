@@ -14,12 +14,12 @@ OBS: Inclusive eu não pretendo continuar a implementar o app para linux no mome
 
 ## TODO List
 
-[] Aprender como buildar esse aplicativo para um app de linha de comando
-[] Usar o pip para criar um arquvio de requirements.txt para instalar as dependencias
-[] Finalizar este arquivo README
-[] Estudar mais o uso do Toga
-[] Buildar esse app de uma maneira que ele funcione multiplataforma
-[] Fazer esse app funcionar baseado em qual campus da ufsc você quer saber o cárdapio
+- [ ] Aprender como buildar esse aplicativo para um app de linha de comando
+- [ ] Usar o pip para criar um arquvio de requirements.txt para instalar as dependencias
+- [ ] Finalizar este arquivo README
+- [ ] Estudar mais o uso do Toga
+- [ ] Buildar esse app de uma maneira que ele funcione multiplataforma
+- [ ] Fazer esse app funcionar baseado em qual campus da ufsc você quer saber o cárdapio
 
 ## Installation
 
